@@ -1,0 +1,19 @@
+<root>
+	<!-- 
+	1:搞笑图片,funny
+	2:美女图片,happy(有爱)|
+	3:游戏,interest(有用) -->
+	<classid>1</classid>
+	<!-- 文件夹 如：20140312 -->
+	<newspath>20140708</newspath>
+	<!-- 文件名 如：pets -->
+	<filename>photobomb</filename>
+	<!-- 关键词 如：key13a,key13b -->
+	<keyboard>好玩的美女，搞笑的美女</keyboard>
+	<!-- 标题 如：搞笑的宠物-->
+	<title>这美女怎么特别像人呢</title>
+	<!-- 标题图片地址 如：/d/myfile/20140329/topic.jpg -->
+	<titlepic>/d/myfile/20140708/photobombTopic.jpg</titlepic>
+	<!-- 描述 如：文章13的描述 -->
+	<smalldec>大家快来看，这是美女呢，还是动物呢？</smalldec>
+</root>
