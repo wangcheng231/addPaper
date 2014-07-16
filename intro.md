@@ -1,3 +1,31 @@
+common.xml   	基本信息
+content.html	文章内容信息
+
+//搞笑首要参考
+crazy funny pictures
+http://www.eatliver.com/
+
+
+//搞笑参考网址
+viralnova
+http://www.viralnova.com
+
+crazy funny pictures
+http://www.eatliver.com/
+
+Funny Pictures,Pics – LOL Pix!
+http://www.lolpix.com/
+
+funny pictures daily haha
+http://www.dailyhaha.com/pictures.htm
+Funny Pictures – HaHaStop Funny Pics !
+
+http://www.hahastop.com/
+
+//美女图片
+
+
+
 快站：
 wangcheng231@qq.com
 zpf1
