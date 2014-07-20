@@ -1,6 +1,10 @@
 common.xml   	基本信息
 content.html	文章内容信息
 
+//common
+google:
+http://173.194.72.31/
+
 //搞笑首要参考
 crazy funny pictures
 http://www.eatliver.com/
