@@ -23,6 +23,8 @@ Funny Pictures – HaHaStop Funny Pics !
 http://www.hahastop.com/
 
 //美女图片
+蜂鸟摄影论坛
+http://www.fengniao.com/
 
 
 
